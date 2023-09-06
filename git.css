@@ -2,3 +2,14 @@ body
 {
     background-color: blue;
 }
+h1
+{
+    color:gold;
+    text-align: center ;
+}
+p
+{
+    front-family:"Times New Roman"
+    front-size 20px;
+    text-align: center;
+}
